@@ -174,5 +174,4 @@ If you have any questions or suggestions, feel free to contact me at [your_email
 
 Thank you for checking out EcoTrack! I hope this project helps you on your journey to a more sustainable lifestyle.
 
-This README is written by [readme.ai](https://readme-generator-phi.vercel.app/).
 
